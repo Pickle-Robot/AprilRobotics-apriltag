@@ -9,6 +9,7 @@
 #include "apriltag.h"
 #include "tag36h10.h"
 #include "tag36h11.h"
+#include "tag36h11b2.h"
 #include "tag25h9.h"
 #include "tag16h5.h"
 #include "tagCircle21h7.h"
@@ -21,6 +22,7 @@
 #define SUPPORTED_TAG_FAMILIES(_)           \
     _(tag36h10)                             \
     _(tag36h11)                             \
+    _(tag36h11b2)                           \
     _(tag25h9)                              \
     _(tag16h5)                              \
     _(tagCircle21h7)                        \

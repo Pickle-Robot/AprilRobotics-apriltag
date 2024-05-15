@@ -44,6 +44,7 @@ The constructor takes a number of arguments:
   reported. At the time of this writing the known families are:
 
   - "tag36h11"
+  - "tag36h11b2"
   - "tag25h9"
   - "tag16h5"
   - "tagCircle21h7"
